@@ -1,1 +1,0 @@
-# gakram.github.io
