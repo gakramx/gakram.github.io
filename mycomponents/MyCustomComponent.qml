@@ -1,5 +1,5 @@
 import QtQuick
 
 Rectangle {
-    color:"red"
+    color:"blue"
 }
